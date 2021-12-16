@@ -1,0 +1,9 @@
+body{
+    user-select: none;
+}
+h1{
+    text-align: center;
+    font-family: fantasy ;
+    font-size: 60px;
+    background: cyan;
+}
